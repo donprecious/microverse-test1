@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #form{
     padding: 10px;
     width: 50%;
@@ -17,4 +18,12 @@
 #email{
     width: 100%;
     margin-top: 5px;
+=======
+#nav-bar{
+    background-color: #517bf0 ;
+}
+
+#nav-bar .nav-link{
+    color: white;
+>>>>>>> 9b5b20d4dbf7f860834fc3d7ad203a00f85bfadc
 }
