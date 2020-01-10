@@ -1,7 +1,22 @@
-#nav-bar{
-    background-color: #517bf0 ;
+#header{
+    background-color: #517bf0;
+    width: 100%;
+    height: 100px;
 }
 
 #nav-bar .nav-link{
     color: white;
+    display: inline;
+    float: right;
+    margin-top: 30px;
+}
+#nav-bar #header-img{
+   background-repeat: no-repeat;
+   background-size:cover;
+   background-position:center;
+   width: 100px;
+   height:100px;
+   margin: auto;
+   float: left;
+   padding:20px;
 }
