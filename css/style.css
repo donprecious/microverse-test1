@@ -54,8 +54,8 @@ width:560px;
 
 .vid-div{
     margin: auto;
-    position: relative;
-    left: 20% ;
+  
+    margin-left: 20% ;
 }
 @media only screen and (max-width: 600px) {
     
@@ -66,7 +66,7 @@ width:560px;
         }
   }
   
-}
+
 #nav-bar #header-img{
    background-repeat: no-repeat;
    background-size:cover;
